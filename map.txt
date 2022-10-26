@@ -1,0 +1,13 @@
+map
+Australia Map Coloring Problem from AIMA Sec. 6.1.1 (Fig. 6.1) with unary constraints
+WA NT Q NSW V SA T
+WA NT SA
+NT Q SA WA
+Q NSW SA NT
+NSW V SA Q
+V SA NSW
+SA WA NT Q NSW V
+T
+r g b
+WA = r
+SA != g

@@ -1,0 +1,46 @@
+jobshop
+Job Shop Vehicle Assembly Problem from AIMA 4th ed. Sec. 6.1.2
+AxelF AxelB WheelRF WheelLF WheelRB WheelLB NutsRF NutsLF NutsRB NutsLB CapRF CapLF CapRB CapLB Inspect
+AxelF 10
+AxelB 10
+WheelRF 1
+WheelLF 1
+WheelRB 1
+WheelLB 1
+NutsRF 2
+NutsLF 2
+NutsRB 2
+NutsLB 2
+CapRF 1
+CapLF 1
+CapRB 1
+CapLB 1
+Inspect 3
+30
+AxelF before WheelRF
+AxelF before WheelLF
+AxelB before WheelRB
+AxelB before WheelLB
+WheelRF before NutsRF
+NutsRF before CapRF
+WheelLF before NutsLF
+NutsLF before CapLF
+WheelRB before NutsRB
+NutsRB before CapRB
+WheelLB before NutsLB
+NutsLB before CapLB
+AxelF disjoint AxelB
+AxelF before Inspect
+AxelB before Inspect
+WheelRF before Inspect
+WheelLF before Inspect
+WheelRB before Inspect
+WheelLB before Inspect
+NutsRF before Inspect
+NutsLF before Inspect
+NutsRB before Inspect
+NutsLB before Inspect
+CapRF before Inspect
+CapLF before Inspect
+CapRB before Inspect
+CapLB before Inspect
